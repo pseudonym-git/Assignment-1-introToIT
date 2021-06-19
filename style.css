@@ -1,0 +1,46 @@
+html, body{
+  background: #3B5249;
+  font-family: arial, sans-serif;
+  font-size: 16px;
+  color: #000;
+}
+
+p{
+  font-size: 1em;
+  line-height: 1.6em;
+  margin-bottom: 16px;
+}
+
+h2{
+  border-bottom: 2px solid #000;
+  margin-top: 26px;
+  margin-bottom:16px;
+}
+
+#myWebpage{
+  width: 86%;
+  max-width: 750px;
+  background: #CBBEB3;
+  margin: 25px auto;
+  padding: 25px;
+}
+
+.contact{
+  padding: 10px;
+}
+
+img{
+  border-style: solid; color: #AC9D86;
+  border-width: 3px;
+  width:720px;
+  object-fit: contain;
+  margin:12px;
+}
+
+h1{
+  font-size:3em;
+  text-align: center;
+  margin:-2px;
+  border-style: none none solid none;
+  border-width:1px color:#000;
+}
